@@ -2,9 +2,9 @@
 
 ## Contacts
 
-- E-mail: m@penzin.ru
+- E-mail: mpenzin@gmail.com
 - Telegram: @mpenzin
-- Homepage: https://maxp.dev
+- Homepage: https://penzin.info
 - GitHub: https://github.com/maxp
 
 ## Desired position
@@ -14,32 +14,32 @@
 
 ## Skills
 
-- Clojure / ClojureScript (async, ring, spec, reitit, malli, reagent, re-frame)
+- Clojure / ClojureScript (async, manifold, ring, spec, reitit, malli, reagent, re-frame, java interop)
 - Python (Django, Flask, SQLAlchemy, Jijna, Werkzeug)
 - NodeJS (TypeScript, Express, pug, kue)
 - PostgreSQL, MongoDB
 - Linux (including embedded systems)
+- Java
 
 More than 10 years experiance on each position.
 
 ## Other experience
 
-- PostGIS, Redis, RabbitMQ, Docker
-- Git, Mercurial (and also CVS/SVN)
-- Jira, Trello, Redmine
+- Kafka, Redis, RabbitMQ, PostGIS
+- Git, Docker, Jira, Kubernetes
 - GitHub/GitLab CI/CD, github flow
 
-## Projects in production
+## Projects
+
+- **Contract work for Appodeal** - (Clojure, Golang, Kafka, Redis, Clickhouse, Python)  
+  implementation of improvements for a highly loaded real time bidding platform
 
 - **Meteo38** - (Clojure, MongoDB)  
   Telegram bot as interface to real time weather data network
   - Scheduled notifications
   - Geolocation search
 
-- **mgate** - (Clojure, MongoDB, RabbitMQ)  
-  Multi messagner api gateway to Telegram/Viber/Vkontakte for student notification system
-
-- **meteo38.ru** - (NodeJS, Express, MongoDB)  
+- **meteo38.ru** - (initially in NodeJS, Express, MongoDB - rewritten in Clojure/babashka)  
   Weather data IoT collector, web user interface, METAR data converter
 
 - **Student Notification dispatcher** - (Clojure, MongoDB, RabbitMQ, PostgreSQL)  
