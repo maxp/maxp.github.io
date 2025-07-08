@@ -2,32 +2,40 @@
 
 ## Contacts
 
-- E-mail: mpenzin@gmail.com
+- E-mail: m@penzin.ru
 - Telegram: @mpenzin
-- Homepage: https://penzin.info
-- GitHub: https://github.com/maxp
+
 
 ## Desired position
 
-- software developer (Clojure/Python/NodeJS)
-- teamlead, system architect
+- software developer (Python/Clojure)
+- team lead
+
 
 ## Skills
 
-- Clojure / ClojureScript (async, manifold, ring, spec, reitit, malli, reagent, re-frame, java interop)
-- Python (Django, Flask, SQLAlchemy, Jijna, Werkzeug)
-- NodeJS (TypeScript, Express, pug, kue)
+- Clojure (async, ring, spec, reitit, malli, next-jdbc, java interop)
+- Python (FastAPI, Django, Flask, SQLAlchemy, asyncio)
 - PostgreSQL, MongoDB
 - Linux (including embedded systems)
 - Java
 
-More than 10 years experiance on each position.
+More than 10 years experience.
+
 
 ## Other experience
 
 - Kafka, Redis, RabbitMQ, PostGIS
 - Git, Docker, Jira, Kubernetes
 - GitHub/GitLab CI/CD, github flow
+
+
+## Links
+
+- Homepage: https://penzin.ru
+- GitHub: https://github.com/maxp
+- GitHub: https://github.com/angara
+
 
 ## Projects
 
@@ -39,12 +47,12 @@ More than 10 years experiance on each position.
   - Scheduled notifications
   - Geolocation search
 
-- **meteo38.ru** - (initially in NodeJS, Express, MongoDB - rewritten in Clojure/babashka)  
+- **meteo38.ru** - (Clojure/babashka/Python)
   Weather data IoT collector, web user interface, METAR data converter
 
 - **Student Notification dispatcher** - (Clojure, MongoDB, RabbitMQ, PostgreSQL)  
   Set of microservices for student notification system
-  - mgate rmq api
+  - Messenger gateway module (Telegram, Viber, VK, TamTam)
   - Admin interface
   - Third party services integration (xml/json/rest)
   - RSS feed module integration
@@ -63,9 +71,6 @@ More than 10 years experiance on each position.
 
 - **CoinCheckHack monitor** - (Clojure, MongoDB, NEM api)  
   Transaction tracking system on NEM blockchain to warn about stolen coins
-
-- **rss2tlg** - (ClojureScript, NodeJS)  
-  Standalone single file utility to send RSS feeds into Telegram channel
 
 - **Система планирования работы врачей** - (Python/Django/HTML/js)  
   Настраиваемая сетка расписания медучреждения
@@ -86,7 +91,7 @@ More than 10 years experiance on each position.
   - Отложенные события
   - SMTP
 
-- **Городской медиа-портал** - (Python/Django/Werkzeug)  
+- **Городской медиа-портал - irk.fm** - (Python/Django/Werkzeug)  
   Типичная "соцсеть" - пользователи, администраторы, заметки, фото, музкальные треки
   - Гибкая иерархическая система динамически определяемых прав
   - Интерфейс со сторонними сервисами (метео, торренты, ...)
@@ -97,6 +102,7 @@ More than 10 years experiance on each position.
 
 - **sqstat** - (Python)  
   Сбор обсчет и анализ трафика по логам Squid
+
 
 ## Education
 
